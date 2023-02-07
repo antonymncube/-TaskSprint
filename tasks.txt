@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 october 2019, 20 october 2019, yes
+antony, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 October 2022, 30 october 2022, no
+xolani, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 october 2022, 25 november 2022, no
+admin, reboot the system, install windows 11 as the new operating system, 20 may 2020, 30 june 2022, yes
+xolani, hardware, change the ram in our system and upgrade them to 16gr ram, 12 february 2022, 30 june 2022, no
+silas, fix the bug, our system has a problem of duplicating user names can you fix that, 15 november 2022, 30 december 2022, no
+ 
