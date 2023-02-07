@@ -1,22 +1,22 @@
 # TaskManager
 ### 'Program description'
-This is a simple program that handle tasks in an organisation in terms
-of which employee is assigned which task and when should the task be completed.
-The program also tracks the progess of the whole tasks in the company.
-
+This is a basic software that manages tasks in an organization by determining which person is
+allocated which assignment and when the task should be done. 
+The application also monitors the progress of all tasks in the organization.
+ 
 ### 'How to use the program'
-N.B - The program runs on the console.
+N.B - The program is executed on the console.
 
 Restrictions and Constrains 
-Only admin user can register a new user.
-admin user details are 
+A new user may only be registered by the administrator.
+administrato user information 
 username : admin
 password : admin
 
-Only Registered users can access the system
+The system is only accessible to registered users.
 
-Any registered user can access the system  to check the overall tasks and other 
-reasons except for registering another user.(To access the system as a user check the 
-user file to get login details of any user)
-
-
+Except for enrolling another user, any registered user can use the system to
+monitor the overall tasks and for other reasons.
+N.B To access the system as a user, look in the user file for any user's login information.
+ 
+ 
