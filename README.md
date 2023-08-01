@@ -1,22 +1,25 @@
-# TaskManager
-### 'Program description'
-This is a basic software that manages tasks in an organization by determining which person is
-allocated which assignment and when the task should be done. 
-The application also monitors the progress of all tasks in the organization.
- 
-### 'How to use the program'
-N.B - The program is executed on the console.
+ # TaskSprint - Efficient Task Management Software
 
-Restrictions and Constrains 
-A new user may only be registered by the administrator.
-administrato user information 
-username : admin
-password : admin
+## Program Description
+TaskSprint is a powerful and feature-rich software meticulously crafted to facilitate seamless task management within organizations. The application optimizes task allocation by intelligently assigning specific assignments to individuals while setting well-defined deadlines for their timely completion. Additionally, TaskSprint offers comprehensive monitoring capabilities, empowering users to closely track the progress of all tasks across the entire organization.
 
-The system is only accessible to registered users.
+## How to Use the Program
+Please take note that TaskSprint is a console-based application, carefully designed to ensure a user-friendly experience.
 
-Except for enrolling another user, any registered user can use the system to
-monitor the overall tasks and for other reasons.
-N.B To access the system as a user, look in the user file for any user's login information.
- 
- 
+## Restrictions and Constraints
+
+### User Registration
+Administrative privilege for user registration is exclusively granted to the administrator. The designated administrator credentials are as follows:
+
+Username: admin
+Password: admin
+
+### Access Control
+TaskSprint upholds strict access control measures, permitting entry solely to registered users. Once registered, users can harness TaskSprint's multifaceted functionalities to oversee comprehensive task management and execute other vital operations.
+
+### User Login Information
+For user access, kindly refer to the user file, which contains specific login credentials for each authorized user.
+
+TaskSprint streamlines the entire task management process, seamlessly coordinating assignments, deadlines, and real-time progress tracking. Experience heightened collaboration and unleash organization-wide productivity with TaskSprint's intuitive and robust features.
+
+[Feel free to incorporate any supplementary details or guidance to optimize the utilization of TaskSprint.]
