@@ -22,4 +22,4 @@ For user access, kindly refer to the user file, which contains specific login cr
 
 TaskSprint streamlines the entire task management process, seamlessly coordinating assignments, deadlines, and real-time progress tracking. Experience heightened collaboration and unleash organization-wide productivity with TaskSprint's intuitive and robust features.
 
-[Feel free to incorporate any supplementary details or guidance to optimize the utilization of TaskSprint.]
+[Feel free to incorporate any supplementary details or guidance to optimize the utilization of TaskSprint.].
